@@ -1,0 +1,2 @@
+# Electron_Test
+這是一個git的Electron檔案的一個簡單測試
